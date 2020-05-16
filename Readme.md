@@ -52,7 +52,7 @@ Distributed under the MIT Licence. See [Licence](https://opensource.org/licenses
 
 # Link To The Project On Github:
 
-[Project On Github](https://github.com/KingsleyMcSimon/NewPortfolioWebsite)
+[Project On Github](https://github.com/KingsleyMcSimon/Portfolio)
 
 # What Was Learnt During The Project:
 
