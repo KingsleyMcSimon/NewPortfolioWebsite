@@ -191,6 +191,13 @@
   padding: 7rem 2rem;
 }
 
+.offset:before {
+  height: 3.8rem;
+  margin-top: -3.8rem;
+  content: "";
+  display: block;
+}
+
 .site-main .services-area .services-title {
   padding: 0 14rem;
 }
